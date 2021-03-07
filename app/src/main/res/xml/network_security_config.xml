@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config xmlns:tools="http://schemas.android.com/tools">
+    <domain-config cleartextTrafficPermitted="true" >
+        <domain includeSubdomains="true">10.0.2.2</domain> <!--For emulator-->
+        <domain includeSubdomains="true">192.168.1.6</domain><!--For real device, get your ip from pc-->
+    </domain-config>
+</network-security-config>
