@@ -22,7 +22,7 @@ const stripe = require("stripe")("sk_test_xttiSskmyCYN7fZZ2DJqDgbg00NGpPbMWU");
 
 5.Output   
 
-![](https://media.giphy.com/media/IgeEGHbyznUlkbPDni/source.gif)   
+![](https://media.giphy.com/media/TGC47ZRjFg5TEBHYDi/giphy.gif)   
 
 
 Stripe Dashboard   
