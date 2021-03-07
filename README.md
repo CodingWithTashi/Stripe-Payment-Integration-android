@@ -14,7 +14,7 @@ To be able to work with this app
 2. Add Secret keyin server
 ```
 const stripe = require("stripe")("sk_test_xttiSskmyCYN7fZZ2DJqDgbg00NGpPbMWU");
-``   
+``` 
 3. Run the server code by running    
 ```node index.js```   
 
