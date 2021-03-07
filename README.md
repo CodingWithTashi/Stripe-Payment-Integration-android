@@ -19,6 +19,10 @@ const stripe = require("stripe")("sk_test_xttiSskmyCYN7fZZ2DJqDgbg00NGpPbMWU");
 ```node index.js```   
 
 4. Build android project and you shoud able to get the output   
+5. Want to watch video   
+[YouTube](https://www.youtube.com/watch?v=EqzG6E2n7qo&t=171s)   
+6. Prefer to read blog   
+[Medium Post](https://codingwithtashi.medium.com/stripe-payment-integration-with-android-4c588e78f3ea)
 
 5.Output   
 
